@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="application_name">Application Name</string>
+    <string name="log_in">LOG IN</string>
+    <string name="enter_login">Enter login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="dont_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_up">Sign up</string>
+</resources>
